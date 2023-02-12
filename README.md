@@ -1,5 +1,8 @@
 # Developmental-Blog
 
+<h>Github page link:</h>
+<p>https://klkailun.github.io/Developmental-Blog/</p>
+
 <h>Week 1:</h>
 <p>
 I have learnt how to execute simple html commands such as h for header and p for the main content. I also learnt how to create a simple website using html commands that I have learnt.😀
